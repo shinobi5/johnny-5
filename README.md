@@ -1,6 +1,6 @@
 # :zap: Johnny 5
 
-Anything required and related (resources, knowledge, skills, tools etc.) to building a full-size replica of Johnny 5 from the movie [Short Circuit](https://en.wikipedia.org/wiki/Short_Circuit_(1986_film)).
+All things related (resources, knowledge, skills, tools etc.) to building a full-size replica of Johnny 5 from the movie [Short Circuit](https://en.wikipedia.org/wiki/Short_Circuit_(1986_film)).
 
 ### Projects
 - [Input Inc - J5 Project](https://input-inc.com/)
